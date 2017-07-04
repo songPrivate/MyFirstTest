@@ -3,7 +3,7 @@
  */
 public class Test {
     void testSout() {
-	System.out.println("my name is songxianda");    
+	System.out.println("my name is sxd");    
 	System.out.println("no00");
         System.out.println("no000");
         System.out.println("no1");
