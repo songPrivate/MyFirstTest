@@ -3,8 +3,11 @@
  */
 public class Test {
     void testSout() {
-		System.out.println("no00");
+<<<<<<< HEAD
+        System.out.println("no00");
+=======
         System.out.println("no000");
+>>>>>>> fd1f8eff7ff839422a609d0f9839e601545e8675
         System.out.println("no1");
         System.out.println("no2");
         System.out.println("no3");
@@ -15,6 +18,5 @@ public class Test {
         System.out.println("no8");
         System.out.println("no7");
         System.out.println("no8");
-        System.out.println("my Englist name is Saul");
     }
 }
