@@ -8,5 +8,5 @@ target/
 .externalToolBuilders
 *.class
 *svn/
-.idea/
+.idea
 *.jar
