@@ -3,7 +3,8 @@
  */
 public class Test {
     void testSout() {
-        System.out.println("no00");
+		System.out.println("no00");
+        System.out.println("no000");
         System.out.println("no1");
         System.out.println("no2");
         System.out.println("no3");
