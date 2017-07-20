@@ -6,4 +6,4 @@ target
 .settings
 ${catalina.home}
 *.iml
-testparent*
+test
