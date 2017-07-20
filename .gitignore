@@ -6,8 +6,4 @@ target
 .settings
 ${catalina.home}
 *.iml
-<<<<<<< HEAD
 test
-=======
-test
->>>>>>> dev
