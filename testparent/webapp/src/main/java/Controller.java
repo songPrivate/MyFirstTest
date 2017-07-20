@@ -17,6 +17,7 @@ public class Controller extends HttpServlet {
         t.testSout();
         System.out.printf("dev1");
         System.out.printf("dev2");
+        System.out.printf("mst1");
     }
 
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
