@@ -1,0 +1,9 @@
+bin
+target
+.idea
+.classpath
+.project
+.settings
+${catalina.home}
+*.iml
+test
