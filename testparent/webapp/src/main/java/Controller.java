@@ -15,11 +15,13 @@ public class Controller extends HttpServlet {
     void go() {
         Test t = new Test();
         t.testSout();
-        System.out.printf("dev1");git
+        System.out.printf("dev1");
         System.out.printf("dev2");
         System.out.printf("onlinefev2");
         System.out.printf("dev3");
         System.out.printf("dev4");
+        System.out.printf("dev4g");
+        System.out.printf("dev4g");
     }
 
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
