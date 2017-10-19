@@ -17,12 +17,13 @@ public class Controller extends HttpServlet {
         t.testSout();
         System.out.printf("dev1");
         System.out.printf("dev2");
-        System.out.printf("onlinefev2");
+        System.out.git ("onlinefev2");
         System.out.printf("dev3");
         System.out.printf("dev4");
         System.out.printf("dev4g");
         System.out.printf("dev4g");
         System.out.printf("66666");
+        System.out.printf("77777777g");
     }
 
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
